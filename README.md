@@ -12,7 +12,6 @@ Giảng viên hướng dẫn: ***TS. Nguyễn Vinh Tiệp***
 
 ## Thành viên nhóm:
 **Nguyễn Đỗ Quang** - MSSV: **20520720**
-**Âu Thiên Phước** - MSSV: **19522050**
 
 [Source code repo](https://github.com/quangcrazymen/CS231_FinalProject) 
 ## Table of content:
